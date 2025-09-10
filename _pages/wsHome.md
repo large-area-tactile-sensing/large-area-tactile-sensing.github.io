@@ -17,6 +17,16 @@ title: Home
 
 ## Introduction
 
+<div style="text-align: justify">
+
+<h5>Robotic systems are increasingly expected to operate in unstructured and dynamic environments, where local contact information, global context awareness, and safe human–robot interaction are essential. However, current tactile sensing solutions are often limited to small-area arrays or fingertip sensors, restricting their ability to provide whole-body awareness and robust interaction capabilities. In contrast, biological organisms seamlessly integrate distributed tactile sensing across large skin surfaces to support grasping, locomotion, and environmental interaction with high resilience.</h5>
+
+<br/>
+
+<h5>This workshop aims to bring together researchers from robotics, soft materials, and flexible electronics to address the challenges and opportunities of large-area tactile sensing skins. Topics include scalable fabrication strategies (e.g., printed flexible electronics, soft smart composites, multimodal sensor integration), signal processing and calibration for high-density sensor arrays, and algorithms for tactile perception that bridge local contact with global representations. We'll also discuss applications ranging from robotic manipulation and safe physical human-robot interaction to wearable and assistive devices.</h5>
+
+</div>
+
 <br/>
 
 ## Invited Speakers
@@ -25,7 +35,7 @@ title: Home
   <div class="row mt-4">
     <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
-        <img src="/assets/img/speakers/harada.jpg" alt="Prof. Kensuke Harada" class="speaker-img rounded-circle mb-3">
+        <img src="/assets/img/speakers/harada.jpg" alt="Prof. " class="speaker-img rounded-circle mb-3">
         <h5>Prof. xx</h5>
         <p class="text-muted">xx</p>
         <p class="speaker-topic"><em>Topic: xx</em></p>
@@ -33,7 +43,7 @@ title: Home
     </div>
     <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
-        <img src="/assets/img/speakers/ogata.jpg" alt="Prof. Tetsuya Ogata" class="speaker-img rounded-circle mb-3">
+        <img src="/assets/img/speakers/ogata.jpg" alt="Prof. " class="speaker-img rounded-circle mb-3">
         <h5>Prof. xx</h5>
         <p class="text-muted">xx</p>
         <p class="speaker-topic"><em>Topic: xx</em></p>
@@ -41,7 +51,7 @@ title: Home
     </div>
     <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
-        <img src="/assets/img/speakers/leng.jpg" alt="Dr. Xiaokun Leng" class="speaker-img rounded-circle mb-3">
+        <img src="/assets/img/speakers/leng.jpg" alt="Dr. " class="speaker-img rounded-circle mb-3">
         <h5>Prof. xx</h5>
         <p class="text-muted">xx</p>
         <p class="speaker-topic"><em>Topic: xx</em></p>
@@ -93,45 +103,116 @@ title: Home
       <div class="organizer-card">
         <img src="/assets/img/organizers/org2.jpg" alt="Organizer 2" class="organizer-img rounded-circle mb-2">
         <h5>Yingjie Zheng</h5>
-        <p class="text-muted small">[Zhejiang University]</p>
+        <p class="text-muted small">Zhejiang University</p>
       </div>
     </div>
     <div class="col-md-3 text-center mb-4">
       <div class="organizer-card">
+        <a href="https://www.dshardman.co.uk/" target="_blank" class="organizer-link">
         <img src="/assets/img/organizers/org3.jpg" alt="Organizer 3" class="organizer-img rounded-circle mb-2">
         <h5>David Hardman</h5>
-        <p class="text-muted small">[University of Cambridge]</p>
+        </a>
+        <p class="text-muted small">University of Cambridge</p>
       </div>
     </div>
     <div class="col-md-3 text-center mb-4">
       <div class="organizer-card">
+        <a href="https://chxu.me/" target="_blank" class="organizer-link">
         <img src="/assets/img/organizers/org4.jpg" alt="Organizer 4" class="organizer-img rounded-circle mb-2">
         <h5>Changhao Xu</h5>
-        <p class="text-muted small">[Stanford University]</p>
+        </a>
+        <p class="text-muted small">Stanford University</p>
       </div>
     </div>
   </div>
   <div class="row justify-content-center">
     <div class="col-md-3 text-center mb-4">
       <div class="organizer-card">
+        <a href="https://eng.ox.ac.uk/people/perla-maiolino/" target="_blank" class="organizer-link">
         <img src="/assets/img/organizers/org5.jpg" alt="Organizer 5" class="organizer-img rounded-circle mb-2">
         <h5>Perla Maiolino</h5>
-        <p class="text-muted small">[University of Oxford]</p>
+        </a>
+        <p class="text-muted small">University of Oxford</p>
       </div>
     </div>
     <div class="col-md-3 text-center mb-4">
       <div class="organizer-card">
+        <a href="https://www.eng.cam.ac.uk/profiles/fi224" target="_blank" class="organizer-link">
         <img src="/assets/img/organizers/org6.jpg" alt="Organizer 6" class="organizer-img rounded-circle mb-2">
         <h5>Fumiya Iida</h5>
-        <p class="text-muted small">[University of Cambridge]</p>
+        </a>
+        <p class="text-muted small">University of Cambridge</p>
       </div>
     </div>
     <div class="col-md-3 text-center mb-4">
       <div class="organizer-card">
+        <a href="https://tthuruthel.com/" target="_blank" class="organizer-link">
         <img src="/assets/img/organizers/org7.jpg" alt="Organizer 7" class="organizer-img rounded-circle mb-2">
         <h5>Thomas George Thuruthel</h5>
-        <p class="text-muted small">[University College London]</p>
+        </a>
+        <p class="text-muted small">University College London</p>
       </div>
     </div>
   </div>
 </div>
+
+<!-- For speakers -->
+<a href="https://example.com/harada" target="_blank" class="speaker-link">
+
+<!-- For organizers -->
+<a href="https://example.com/organizer1" target="_blank" class="organizer-link">
+
+<style>
+.speakers-section .speaker-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 3px solid #e9ecef;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.speakers-section .speaker-link:hover .speaker-img {
+  transform: scale(1.05);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  border-color: #007bff;
+}
+
+.speakers-section .speaker-card {
+  padding: 20px;
+  height: 100%;
+}
+
+.speakers-section .speaker-topic {
+  font-size: 0.9em;
+  color: #6c757d;
+  margin-top: 10px;
+}
+
+.organizers-section .organizer-img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border: 2px solid #e9ecef;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.organizers-section .organizer-link:hover .organizer-img {
+  transform: scale(1.05);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+  border-color: #007bff;
+}
+
+.organizers-section .organizer-card {
+  padding: 15px;
+  height: 100%;
+}
+
+.organizers-section h6 {
+  margin-bottom: 5px;
+  font-size: 0.95em;
+}
+
+.organizers-section .small {
+  font-size: 0.8em;
+}
+</style>
