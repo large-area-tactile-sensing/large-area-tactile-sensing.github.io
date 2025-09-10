@@ -17,7 +17,7 @@ title: Home
 
 ## Introduction
 
-<div style="text-align: justify">
+<!-- <div style="text-align: justify">
 
 <h5>Robotic systems are increasingly expected to operate in unstructured and dynamic environments, where local contact information, global context awareness, and safe human–robot interaction are essential. However, current tactile sensing solutions are often limited to small-area arrays or fingertip sensors, restricting their ability to provide whole-body awareness and robust interaction capabilities. In contrast, biological organisms seamlessly integrate distributed tactile sensing across large skin surfaces to support grasping, locomotion, and environmental interaction with high resilience.</h5>
 
@@ -25,7 +25,7 @@ title: Home
 
 <h5>This workshop aims to bring together researchers from robotics, soft materials, and flexible electronics to address the challenges and opportunities of large-area tactile sensing skins. Topics include scalable fabrication strategies (e.g., printed flexible electronics, soft smart composites, multimodal sensor integration), signal processing and calibration for high-density sensor arrays, and algorithms for tactile perception that bridge local contact with global representations. We'll also discuss applications ranging from robotic manipulation and safe physical human-robot interaction to wearable and assistive devices.</h5>
 
-</div>
+</div> -->
 
 <br/>
 
