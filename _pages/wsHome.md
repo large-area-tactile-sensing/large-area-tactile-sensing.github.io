@@ -9,13 +9,14 @@ title: Home
 ## From Scalable Materials to Embodied Robotic Perception
 <br/>
 
-***Location:***
 
-***Time:***
+***Location:*** [Vienna, Austria]
+
+***Time:*** [1-5 June]
 
 <br/>
 
-## Introduction
+## About the Workshop
 
 <!-- <div style="text-align: justify">
 
@@ -27,9 +28,27 @@ title: Home
 
 </div> -->
 
+<div style="text-align: justify">
+<h5>Robotic systems are increasingly expected to operate in unstructured and dynamic environments, where local contact information, global context awareness, and safe human–robot interaction are essential. However, current tactile sensing solutions are often limited to small-area arrays or fingertip sensors, restricting their ability to provide whole-body awareness and robust interaction capabilities. In contrast, biological organisms seamlessly integrate distributed tactile sensing across large skin surfaces to support grasping, locomotion, and environmental interaction with remarkable resilience.</h5>
+
+<h5>This workshop brings together researchers from robotics, soft materials, and flexible electronics to address the challenges and opportunities of large-area tactile sensing skins. We will explore cutting-edge topics including:</h5>
+<ul style="text-align: left; max-width: 100%; margin: 0 auto; font-size: 1.25em;">
+<li><strong>Scalable Fabrication:</strong> Printed flexible electronics, soft smart composites, and multimodal sensor integration.</li>
+<li><strong>Signal Processing:</strong> Calibration techniques for high-density sensor arrays and distributed sensing systems.</li>
+<li><strong>Tactile Perception Algorithms:</strong> Bridging local contact information with global spatial representations.</li>
+<li><strong>Applications:</strong> From robotic manipulation and safe human-robot interaction to wearable and assistive devices.</li>
+</ul>
+</div>
+<br/>
+<!-- Alternative image placement - conceptual diagram in the middle -->
+<div style="text-align: center; margin: 40px 0;">
+<img src="/assets/img/tactile-sensing-concept.jpg" alt="Tactile Sensing Concept" style="max-width: 80%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<p style="font-style: italic; color: #6c757d; margin-top: 10px;">Multi-scale tactile sensing: from material design to robotic perception (AI Generated)</p>
+</div>
+
 <br/>
 
-## Invited Speakers
+## Keynote Speakers
 
 <div class="speakers-section">
   <div class="row mt-4">
