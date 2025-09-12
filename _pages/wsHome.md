@@ -54,9 +54,11 @@ title: Home
   <div class="row mt-4">
     <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
-        <img src="/assets/img/speakers/harada.jpg" alt="Prof. " class="speaker-img rounded-circle mb-3">
-        <h5>Prof. xx</h5>
-        <p class="text-muted">xx</p>
+        <a href="https://cheme.stanford.edu/people/zhenan-bao" target="_blank" class="speaker-link">
+        <img src="/assets/img/speakers/speaker1.jpg" alt="Prof. Zhenan Bao" class="speaker-img rounded-circle mb-3">
+        <h5>Prof. Zhenan Bao</h5>
+        </a>
+        <p class="text-muted">Stanford University</p>
         <p class="speaker-topic"><em>Topic: xx</em></p>
       </div>
     </div>
@@ -183,8 +185,8 @@ title: Home
 
 <style>
 .speakers-section .speaker-img {
-  width: 150px;
-  height: 150px;
+  width: 180px;
+  height: 180px;
   object-fit: cover;
   border: 3px solid #e9ecef;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
