@@ -64,9 +64,11 @@ title: Home
     </div>
     <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
-        <img src="/assets/img/speakers/ogata.jpg" alt="Prof. " class="speaker-img rounded-circle mb-3">
-        <h5>Prof. xx</h5>
-        <p class="text-muted">xx</p>
+        <a href="https://yyueluo.com/" target="_blank" class="speaker-link">
+        <img src="/assets/img/speakers/speaker2.jpg" alt="Prof. Yiyue Luo" class="speaker-img rounded-circle mb-3">
+        <h5>Prof. Yiyue Luo</h5>
+        </a>
+        <p class="text-muted">University of Washington</p>
         <p class="speaker-topic"><em>Topic: xx</em></p>
       </div>
     </div>
