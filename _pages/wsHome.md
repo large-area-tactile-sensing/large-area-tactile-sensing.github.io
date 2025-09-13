@@ -74,8 +74,10 @@ title: Home
     </div>
     <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
-        <img src="/assets/img/speakers/leng.jpg" alt="Dr. " class="speaker-img rounded-circle mb-3">
-        <h5>Prof. xx</h5>
+        <a href="https://www.ntech.t.u-tokyo.ac.jp/en/profile/" target="_blank" class="speaker-link">
+        <img src="/assets/img/speakers/speaker3.jpg" alt="Prof. Takao Someya" class="speaker-img rounded-circle mb-3">
+        <h5>Prof. Takao Someya</h5>
+        </a>
         <p class="text-muted">xx</p>
         <p class="speaker-topic"><em>Topic: xx</em></p>
       </div>
