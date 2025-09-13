@@ -78,7 +78,7 @@ title: Home
         <img src="/assets/img/speakers/speaker3.jpg" alt="Prof. Takao Someya" class="speaker-img rounded-circle mb-3">
         <h5>Prof. Takao Someya</h5>
         </a>
-        <p class="text-muted">xx</p>
+        <p class="text-muted">University of Tokyo</p>
         <p class="speaker-topic"><em>Topic: xx</em></p>
       </div>
     </div>
