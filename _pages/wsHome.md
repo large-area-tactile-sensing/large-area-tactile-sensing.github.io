@@ -86,10 +86,12 @@ title: Home
   <div class="row">
     <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
-        <img src="/assets/img/speakers/speaker4.jpg" alt="Speaker 4" class="speaker-img rounded-circle mb-3">
-        <h5>Prof. [Speaker 4 Name]</h5>
-        <p class="text-muted">[Speaker 4 Affiliation]</p>
-        <p class="speaker-topic"><em>[Speaker 4 Topic]</em></p>
+        <a href="https://www.ce.cit.tum.de/ics/people/cheng/" target="_blank" class="speaker-link">
+        <img src="/assets/img/speakers/speaker4.jpg" alt="Prof. Gordon Cheng" class="speaker-img rounded-circle mb-3">
+        <h5>Prof. Gordon Cheng</h5>
+        </a>
+        <p class="text-muted">Technical University of Munich</p>
+        <p class="speaker-topic"><em>Topic: xx</em></p>
       </div>
     </div>
     <div class="col-md-4 text-center mb-4">
