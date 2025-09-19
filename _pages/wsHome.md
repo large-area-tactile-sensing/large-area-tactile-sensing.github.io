@@ -96,10 +96,12 @@ title: Home
     </div>
     <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
-        <img src="/assets/img/speakers/speaker5.jpg" alt="Speaker 5" class="speaker-img rounded-circle mb-3">
-        <h5>Prof. [Speaker 5 Name]</h5>
-        <p class="text-muted">[Speaker 5 Affiliation]</p>
-        <p class="speaker-topic"><em>[Speaker 5 Topic]</em></p>
+        <a href="https://dibris.unige.it/giorgio.cannata%40unige.it" target="_blank" class="speaker-link">
+        <img src="/assets/img/speakers/speaker5.jpg" alt="Prof. Giorgio Cannata" class="speaker-img rounded-circle mb-3">
+        <h5>Prof. Giorgio Cannata</h5>
+        </a>
+        <p class="text-muted">University of Genoa</p>
+        <p class="speaker-topic"><em>Topic: xx</em></p>
       </div>
     </div>
     <div class="col-md-4 text-center mb-4">
