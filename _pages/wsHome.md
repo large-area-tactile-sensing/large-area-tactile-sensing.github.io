@@ -100,16 +100,18 @@ title: Home
         <img src="/assets/img/speakers/speaker5.jpg" alt="Prof. Giorgio Cannata" class="speaker-img rounded-circle mb-3">
         <h5>Prof. Giorgio Cannata</h5>
         </a>
-        <p class="text-muted">University of Genoa</p>
+        <p class="text-muted">University of Genova</p>
         <p class="speaker-topic"><em>Topic: xx</em></p>
       </div>
     </div>
     <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
+        <a href="https://www.kspark.me/team" target="_blank" class="speaker-link">
         <img src="/assets/img/speakers/speaker6.jpg" alt="Speaker 6" class="speaker-img rounded-circle mb-3">
-        <h5>Prof. [Speaker 6 Name]</h5>
-        <p class="text-muted">[Speaker 6 Affiliation]</p>
-        <p class="speaker-topic"><em>[Speaker 6 Topic]</em></p>
+        <h5>Prof. Kyungseo Park</h5>
+        </a>
+        <p class="text-muted">Daegu Gyeongbuk Institute of Science and Technology</p>
+        <p class="speaker-topic"><em>Topic: xx</em></p>
       </div>
     </div>
   </div>
