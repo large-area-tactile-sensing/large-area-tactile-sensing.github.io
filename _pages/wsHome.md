@@ -52,6 +52,83 @@ title: Home
 
 <div class="speakers-section">
   <div class="row mt-4">
+    <div class="col-md-3 text-center mb-4">
+      <div class="speaker-card">
+        <a href="https://cheme.stanford.edu/people/zhenan-bao" target="_blank" class="speaker-link">
+        <img src="/assets/img/speakers/speaker1.jpg" alt="Prof. Zhenan Bao" class="speaker-img rounded-circle mb-3">
+        <h5>Prof. Zhenan Bao</h5>
+        </a>
+        <p class="text-muted">Stanford University</p>
+        <p class="speaker-topic"><em>Topic: xx</em></p>
+      </div>
+    </div>
+    <div class="col-md-3 text-center mb-4">
+      <div class="speaker-card">
+        <a href="https://yyueluo.com/" target="_blank" class="speaker-link">
+        <img src="/assets/img/speakers/speaker2.jpg" alt="Prof. Yiyue Luo" class="speaker-img rounded-circle mb-3">
+        <h5>Prof. Yiyue Luo</h5>
+        </a>
+        <p class="text-muted">University of Washington</p>
+        <p class="speaker-topic"><em>Topic: xx</em></p>
+      </div>
+    </div>
+    <div class="col-md-3 text-center mb-4">
+      <div class="speaker-card">
+        <a href="https://www.ntech.t.u-tokyo.ac.jp/en/profile/" target="_blank" class="speaker-link">
+        <img src="/assets/img/speakers/speaker3.jpg" alt="Prof. Takao Someya" class="speaker-img rounded-circle mb-3">
+        <h5>Prof. Takao Someya</h5>
+        </a>
+        <p class="text-muted">University of Tokyo</p>
+        <p class="speaker-topic"><em>Topic: xx</em></p>
+      </div>
+    </div>
+    <div class="col-md-3 text-center mb-4">
+      <div class="speaker-card">
+        <a href="https://www.ce.cit.tum.de/ics/people/cheng/" target="_blank" class="speaker-link">
+        <img src="/assets/img/speakers/speaker4.jpg" alt="Prof. Gordon Cheng" class="speaker-img rounded-circle mb-3">
+        <h5>Prof. Gordon Cheng</h5>
+        </a>
+        <p class="text-muted">Technical University of Munich</p>
+        <p class="speaker-topic"><em>Topic: xx</em></p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4 text-center mb-4">
+      <div class="speaker-card">
+        <a href="https://dibris.unige.it/giorgio.cannata%40unige.it" target="_blank" class="speaker-link">
+        <img src="/assets/img/speakers/speaker5.jpg" alt="Prof. Giorgio Cannata" class="speaker-img rounded-circle mb-3">
+        <h5>Prof. Giorgio Cannata</h5>
+        </a>
+        <p class="text-muted">University of Genova</p>
+        <p class="speaker-topic"><em>Topic: xx</em></p>
+      </div>
+    </div>
+    <div class="col-md-4 text-center mb-4">
+      <div class="speaker-card">
+        <a href="https://www.kspark.me/team" target="_blank" class="speaker-link">
+        <img src="/assets/img/speakers/speaker6.jpg" alt="Prof. Kyungseo Park" class="speaker-img rounded-circle mb-3">
+        <h5>Prof. Kyungseo Park</h5>
+        </a>
+        <p class="text-muted">Daegu Gyeongbuk Institute of Science and Technology</p>
+        <p class="speaker-topic"><em>Topic: xx</em></p>
+      </div>
+    </div>
+    <div class="col-md-4 text-center mb-4">
+      <div class="speaker-card">
+        <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/rebecca-kramer-bottiglio" target="_blank" class="speaker-link">
+        <img src="/assets/img/speakers/speaker7.jpg" alt="Prof. Rebecca Kramer-Bottiglio" class="speaker-img rounded-circle mb-3">
+        <h5>Prof. Rebecca Kramer-Bottiglio</h5>
+        </a>
+        <p class="text-muted">Yale University</p>
+        <p class="speaker-topic"><em>Topic: xx</em></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- <div class="speakers-section">
+  <div class="row mt-4">
     <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
         <a href="https://cheme.stanford.edu/people/zhenan-bao" target="_blank" class="speaker-link">
@@ -115,7 +192,7 @@ title: Home
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <br/>
 
