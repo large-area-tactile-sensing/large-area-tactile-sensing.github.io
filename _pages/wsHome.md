@@ -117,8 +117,9 @@ title: Home
     <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
         <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/rebecca-kramer-bottiglio" target="_blank" class="speaker-link">
-        <img src="/assets/img/speakers/speaker7.jpg" alt="Prof. Rebecca Kramer-Bottiglio" class="speaker-img rounded-circle mb-3">
-        <h5>Prof. Rebecca Kramer-Bottiglio</h5>
+        <img src="/assets/img/speakers/speaker7.png" alt="Prof. Rebecca Kramer-Bottiglio" class="speaker-img rounded-circle mb-3">
+        <h5>Prof. Rebecca 
+        Kramer-Bottiglio</h5>
         </a>
         <p class="text-muted">Yale University</p>
         <p class="speaker-topic"><em>Topic: xx</em></p>
