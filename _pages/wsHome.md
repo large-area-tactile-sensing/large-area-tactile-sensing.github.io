@@ -12,7 +12,7 @@ title: Home
 
 ***Location:*** [Vienna, Austria]
 
-***Time:*** [1-5 June]
+***Time:*** [Afternoon, 1st, June]
 
 <br/>
 
@@ -28,7 +28,7 @@ title: Home
 
 </div> -->
 
-<div style="text-align: justify">
+<!-- <div style="text-align: justify">
 <h5>Robotic systems are increasingly expected to operate in unstructured and dynamic environments, where local contact information, global context awareness, and safe human–robot interaction are essential. However, current tactile sensing solutions are often limited to small-area arrays or fingertip sensors, restricting their ability to provide whole-body awareness and robust interaction capabilities. In contrast, biological organisms seamlessly integrate distributed tactile sensing across large skin surfaces to support grasping, locomotion, and environmental interaction with remarkable resilience.</h5>
 
 <h5>This workshop brings together researchers from robotics, soft materials, and flexible electronics to address the challenges and opportunities of large-area tactile sensing skins. We will explore cutting-edge topics including:</h5>
@@ -38,7 +38,43 @@ title: Home
 <li><strong>Tactile Perception Algorithms:</strong> Bridging local contact information with global spatial representations.</li>
 <li><strong>Applications:</strong> From robotic manipulation and safe human-robot interaction to wearable and assistive devices.</li>
 </ul>
+</div> -->
+
+
+<div style="text-align: justify; max-width: 900px; margin: 0 auto;">
+
+<p style="font-size: 1.15em; line-height: 1.2;">
+Robotic systems are increasingly expected to operate in unstructured and dynamic environments, where local contact information, global context awareness, and safe human–robot interaction are essential. However, current tactile sensing solutions are often limited to small-area arrays or fingertip sensors, restricting their ability to provide whole-body awareness and robust interaction capabilities. In contrast, biological organisms seamlessly integrate distributed tactile sensing across large skin surfaces to support grasping, locomotion, and environmental interaction with remarkable resilience.
+</p>
+
+<p style="font-size: 1.15em; line-height: 1.2;">
+This workshop brings together researchers from robotics, soft materials, and flexible electronics to address the challenges and opportunities of large-area tactile sensing skins. We will explore cutting-edge topics including:
+</p>
+
+<div style="text-align: left; margin: 15px 0;">
+<h5 style="color: #b921b0; margin-bottom: 5px;">Materials and Fabrication</h5>
+<p style="font-size: 1.15em; line-height: 1.2;">
+Printed flexible electronics, soft smart composites, and multimodal sensor integration.
+</p>
+
+<h5 style="color: #b921b0; margin-bottom: 5px; margin-top: 5px;">Signal Processing</h5>
+<p style="font-size: 1.15em; line-height: 1.2;">
+Calibration techniques for high-density sensor arrays and distributed sensing systems.
+</p>
+
+<h5 style="color: #b921b0; margin-bottom: 5px; margin-top: 5px;">Tactile Perception Algorithms</h5>
+<p style="font-size: 1.15em; line-height: 1.2;">
+Bridging local contact information with global spatial representations.
+</p>
+
+<h5 style="color: #b921b0; margin-bottom: 5px; margin-top: 5px;">Applications</h5>
+<p style="font-size: 1.15em; line-height: 1.2;">
+From robotic manipulation and safe human-robot interaction to wearable and assistive devices.
+</p>
 </div>
+
+</div>
+
 <br/>
 <!-- Alternative image placement - conceptual diagram in the middle -->
 <div style="text-align: center; margin: 40px 0;">
@@ -203,8 +239,10 @@ title: Home
   <div class="row mt-4">
     <div class="col-md-3 text-center mb-4">
       <div class="organizer-card">
+        <a href="https://rexhuang98.github.io/" target="_blank" class="organizer-link">
         <img src="/assets/img/organizers/org1.jpg" alt="Organizer 1" class="organizer-img rounded-circle mb-2">
         <h5>Yunqi Huang</h5>
+        </a>
         <p class="text-muted small">University College London</p>
       </div>
     </div>
@@ -250,7 +288,7 @@ title: Home
         <img src="/assets/img/organizers/org6.jpg" alt="Organizer 6" class="organizer-img rounded-circle mb-2">
         <h5>Fumiya Iida</h5>
         </a>
-        <p class="text-muted small">University of Cambridge</p>
+        <p class="text-muted small">University of Tokyo</p>
       </div>
     </div>
     <div class="col-md-3 text-center mb-4">
