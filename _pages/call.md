@@ -35,7 +35,7 @@ These works can either represent preliminary results or report already published
 Please submit your extended abstract through our **Google Form submission portal**:
 
 <div style="text-align: center; margin: 30px 0;">
-<a href="YOUR_GOOGLE_FORM_URL_HERE" target="_blank" style="display: inline-block; background-color: #b921b0; color: white; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-size: 1.2em; font-weight: bold;">Submit Your Abstract</a>
+<a href="https://forms.gle/r2DVBvEJdeMUqTu2A" target="_blank" style="display: inline-block; background-color: #b921b0; color: white; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-size: 1.2em; font-weight: bold;">Submit Your Abstract</a>
 </div>
 
 
