@@ -32,10 +32,10 @@ Extended abstracts may contain previously published material and therefore **do 
 
 These works can either represent preliminary results or report already published work. For the latter case, the original publication should be clearly mentioned with a variation of “this work is an extract from the paper [x]”.
 
-Please submit your extended abstract through our **Google Form submission portal**:
+Please submit your extended abstract through our **Google Form submission portal**: 
 
 <div style="text-align: center; margin: 30px 0;">
-<a href="https://forms.gle/r2DVBvEJdeMUqTu2A" target="_blank" style="display: inline-block; background-color: #b921b0; color: white; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-size: 1.2em; font-weight: bold;">Submit Your Abstract</a>
+<a href="https://forms.gle/r2DVBvEJdeMUqTu2A" target="_blank" style="display: inline-block; background-color: #b921b0; color: white; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-size: 1.25em; font-weight: bold;">Submit Your Abstract</a>
 </div>
 
 
