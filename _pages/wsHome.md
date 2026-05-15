@@ -95,7 +95,7 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
         <h5>Prof. Zhenan Bao</h5>
         </a>
         <p class="text-muted">Stanford University</p>
-        <p class="speaker-topic"><em>Topic: xx</em></p>
+        <p class="speaker-topic"><em>Topic: Skin-Inspired Tactile Sensor Design and Fabrication</em></p>
       </div>
     </div>
     <div class="col-md-3 text-center mb-4">
@@ -115,7 +115,7 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
         <h5>Prof. Takao Someya</h5>
         </a>
         <p class="text-muted">University of Tokyo</p>
-        <p class="speaker-topic"><em>Topic: xx</em></p>
+        <p class="speaker-topic"><em>Topic: Recent Progress of Electronic Skins for Soft Robotics and Healthcare</em></p>
       </div>
     </div>
     <div class="col-md-3 text-center mb-4">
@@ -163,6 +163,86 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
     </div>
   </div>
 </div>
+
+<br/>
+
+## Schedule
+
+<div class="schedule-section">
+  <table class="schedule-table">
+    <thead>
+      <tr>
+        <th style="width: 22%;">Time</th>
+        <th>Event</th>
+        <th>Speaker</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="schedule-time">14:00 – 14:05</td>
+        <td class="schedule-event">Opening Remarks</td>
+        <td class="schedule-speaker">Organizers</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">14:05 – 14:30</td>
+        <td class="schedule-event">Keynote Talk 1</td>
+        <td class="schedule-speaker">Prof. Zhenan Bao <span class="text-muted small">(Stanford University)</span></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">14:30 – 14:55</td>
+        <td class="schedule-event">Keynote Talk 2</td>
+        <td class="schedule-speaker">Prof. Yiyue Luo <span class="text-muted small">(University of Washington)</span></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">14:55 – 15:20</td>
+        <td class="schedule-event">Keynote Talk 3</td>
+        <td class="schedule-speaker">Prof. Takao Someya <span class="text-muted small">(University of Tokyo)</span></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">15:20 – 15:30</td>
+        <td class="schedule-event">Poster Flash Talk</td>
+        <td class="schedule-speaker">Poster Authors</td>
+      </tr>
+      <tr class="schedule-break">
+        <td class="schedule-time">15:30 – 15:50</td>
+        <td class="schedule-event">☕ Coffee Break</td>
+        <td class="schedule-speaker"></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">15:50 – 16:00</td>
+        <td class="schedule-event">Industrial Talk</td>
+        <td class="schedule-speaker">Sponsors</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">16:00 – 16:25</td>
+        <td class="schedule-event">Keynote Talk 4</td>
+        <td class="schedule-speaker">Prof. Gordon Cheng <span class="text-muted small">(TU Munich)</span></td>
+      </tr>
+            <tr>
+        <td class="schedule-time">16:25 – 16:50</td>
+        <td class="schedule-event">Keynote Talk 6</td>
+        <td class="schedule-speaker">Prof. Kyungseo Park <span class="text-muted small">(DGIST)</span></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">16:50 – 17:15</td>
+        <td class="schedule-event">Keynote Talk 5</td>
+        <td class="schedule-speaker">Prof. Giorgio Cannata <span class="text-muted small">(University of Genova)</span></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">17:15 – 17:40</td>
+        <td class="schedule-event">Keynote Talk 7</td>
+        <td class="schedule-speaker">Prof. Rebecca Kramer-Bottiglio <span class="text-muted small">(Yale University)</span></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">17:40 – 17:50</td>
+        <td class="schedule-event">Closing Remarks</td>
+        <td class="schedule-speaker">Organizers</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br/>
 
 <!-- <div class="speakers-section">
   <div class="row mt-4">
@@ -309,6 +389,21 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
 <!-- For organizers -->
 <a href="https://example.com/organizer1" target="_blank" class="organizer-link">
 
+<br/>
+
+<!-- ## Sponsors -->
+
+<!-- <div class="sponsors-section">
+  <div class="sponsors-grid">
+    <a href="https://sponsor1-website.com" target="_blank" class="sponsor-item">
+      <img src="/assets/img/sponsors/sponsor1.png" alt="Sponsor 1">
+    </a>
+    <a href="https://sponsor2-website.com" target="_blank" class="sponsor-item">
+      <img src="/assets/img/sponsors/sponsor2.png" alt="Sponsor 2">
+    </a>
+  </div>
+</div> -->
+
 <style>
 .speakers-section .speaker-img {
   width: 180px;
@@ -361,5 +456,98 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
 
 .organizers-section .small {
   font-size: 0.8em;
+}
+
+.schedule-section {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1em;
+}
+
+.schedule-table thead tr {
+  background-color: #b921b0;
+  color: #fff;
+}
+
+.schedule-table thead th {
+  padding: 10px 14px;
+  text-align: left;
+  font-weight: 600;
+}
+
+.schedule-table tbody tr {
+  border-bottom: 1px solid #e9ecef;
+  transition: background-color 0.15s ease;
+}
+
+.schedule-table tbody tr:hover {
+  background-color: #f8f0f8;
+}
+
+.schedule-table tbody tr.schedule-break {
+  background-color: #fff8e1;
+  font-weight: 500;
+}
+
+.schedule-time {
+  padding: 10px 14px;
+  white-space: nowrap;
+  color: #6c757d;
+  font-size: 0.92em;
+}
+
+.schedule-event {
+  padding: 10px 14px;
+  font-weight: 500;
+}
+
+.schedule-speaker {
+  padding: 10px 14px;
+  color: #333;
+}
+
+.sponsors-section {
+  max-width: 900px;
+  margin: 0 auto 20px;
+}
+
+.sponsors-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  padding: 20px 0;
+}
+
+.sponsor-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.8;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.sponsor-item:hover {
+  opacity: 1;
+  transform: scale(1.05);
+}
+
+.sponsor-item img {
+  max-height: 80px;
+  max-width: 200px;
+  width: auto;
+  object-fit: contain;
+  filter: grayscale(30%);
+  transition: filter 0.2s ease;
+}
+
+.sponsor-item:hover img {
+  filter: grayscale(0%);
 }
 </style>
