@@ -125,7 +125,7 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
         <h5>Prof. Gordon Cheng</h5>
         </a>
         <p class="text-muted">Technical University of Munich</p>
-        <p class="speaker-topic"><em>Topic: xx</em></p>
+        <p class="speaker-topic"><em>Topic: Deployment of Large-area Electronic Skin on Humanoid Robots</em></p>
       </div>
     </div>
   </div>
@@ -391,18 +391,18 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
 
 <br/>
 
-<!-- ## Sponsors -->
+## Sponsors
 
-<!-- <div class="sponsors-section">
+<div class="sponsors-section">
   <div class="sponsors-grid">
-    <a href="https://sponsor1-website.com" target="_blank" class="sponsor-item">
+    <a href="https://advanced.onlinelibrary.wiley.com/journal/29439973" target="_blank" class="sponsor-item">
       <img src="/assets/img/sponsors/sponsor1.png" alt="Sponsor 1">
     </a>
     <a href="https://sponsor2-website.com" target="_blank" class="sponsor-item">
       <img src="/assets/img/sponsors/sponsor2.png" alt="Sponsor 2">
     </a>
   </div>
-</div> -->
+</div>
 
 <style>
 .speakers-section .speaker-img {
