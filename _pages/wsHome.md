@@ -10,9 +10,9 @@ title: Home
 <br/>
 
 
-***Location:*** [Vienna, Austria]
+### ***Location:*** [Hall A2, VIECON, Vienna, Austria]
 
-***Time:*** [Afternoon, 1st, June]
+### ***Time:*** [14:00 - 17:30, 1st June]
 
 <br/>
 
@@ -398,9 +398,9 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
     <a href="https://advanced.onlinelibrary.wiley.com/journal/29439973" target="_blank" class="sponsor-item">
       <img src="/assets/img/sponsors/sponsor1.png" alt="Sponsor 1">
     </a>
-    <a href="https://sponsor2-website.com" target="_blank" class="sponsor-item">
+    <!-- <a href="https://sponsor2-website.com" target="_blank" class="sponsor-item">
       <img src="/assets/img/sponsors/sponsor2.png" alt="Sponsor 2">
-    </a>
+    </a> -->
   </div>
 </div>
 
