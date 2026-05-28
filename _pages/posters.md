@@ -29,6 +29,11 @@ Format:
 
 <br/>
 
+### Beyond Human Touch: Large-Area Opto-Magnetic Electronic Skin for Multimodal Robotic Perception
+*Yingjie Zheng*
+
+<br/>
+
 ### Touching Sound: Co-Located Audio-Tactile Rendering with Frequency-Selective Thin-Film Membranes
 *Qiutong Liu, Yucong Pi, Junwen Zhong, and Yuan Ma*
 
