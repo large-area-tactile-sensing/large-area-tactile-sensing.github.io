@@ -88,7 +88,7 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
 
 <div class="speakers-section">
   <div class="row mt-4">
-    <div class="col-md-3 text-center mb-4">
+    <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
         <a href="https://cheme.stanford.edu/people/zhenan-bao" target="_blank" class="speaker-link">
         <img src="/assets/img/speakers/speaker1.jpg" alt="Prof. Zhenan Bao" class="speaker-img rounded-circle mb-3">
@@ -98,17 +98,17 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
         <p class="speaker-topic"><em>Topic: Skin-Inspired Tactile Sensor Design and Fabrication</em></p>
       </div>
     </div>
-    <div class="col-md-3 text-center mb-4">
+    <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
         <a href="https://yyueluo.com/" target="_blank" class="speaker-link">
         <img src="/assets/img/speakers/speaker2.jpg" alt="Prof. Yiyue Luo" class="speaker-img rounded-circle mb-3">
         <h5>Prof. Yiyue Luo</h5>
         </a>
         <p class="text-muted">University of Washington</p>
-        <p class="speaker-topic"><em>Topic: xx</em></p>
+        <p class="speaker-topic"><em>Topic: Scalable Tactile Interfaces Across Humans, Robots and Tools</em></p>
       </div>
     </div>
-    <div class="col-md-3 text-center mb-4">
+    <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
         <a href="https://www.ntech.t.u-tokyo.ac.jp/en/profile/" target="_blank" class="speaker-link">
         <img src="/assets/img/speakers/speaker3.jpg" alt="Prof. Takao Someya" class="speaker-img rounded-circle mb-3">
@@ -118,7 +118,9 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
         <p class="speaker-topic"><em>Topic: Recent Progress of Electronic Skins for Soft Robotics and Healthcare</em></p>
       </div>
     </div>
-    <div class="col-md-3 text-center mb-4">
+  </div>
+  <div class="row">
+    <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
         <a href="https://www.ce.cit.tum.de/ics/people/cheng/" target="_blank" class="speaker-link">
         <img src="/assets/img/speakers/speaker4.jpg" alt="Prof. Gordon Cheng" class="speaker-img rounded-circle mb-3">
@@ -128,8 +130,6 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
         <p class="speaker-topic"><em>Topic: Deployment of Large-area Electronic Skin on Humanoid Robots</em></p>
       </div>
     </div>
-  </div>
-  <div class="row">
     <div class="col-md-4 text-center mb-4">
       <div class="speaker-card">
         <a href="https://dibris.unige.it/giorgio.cannata%40unige.it" target="_blank" class="speaker-link">
@@ -147,17 +147,6 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
         <h5>Prof. Kyungseo Park</h5>
         </a>
         <p class="text-muted">Daegu Gyeongbuk Institute of Science and Technology</p>
-        <p class="speaker-topic"><em>Topic: xx</em></p>
-      </div>
-    </div>
-    <div class="col-md-4 text-center mb-4">
-      <div class="speaker-card">
-        <a href="https://engineering.yale.edu/research-and-faculty/faculty-directory/rebecca-kramer-bottiglio" target="_blank" class="speaker-link">
-        <img src="/assets/img/speakers/speaker7.png" alt="Prof. Rebecca Kramer-Bottiglio" class="speaker-img rounded-circle mb-3">
-        <h5>Prof. Rebecca 
-        Kramer-Bottiglio</h5>
-        </a>
-        <p class="text-muted">Yale University</p>
         <p class="speaker-topic"><em>Topic: xx</em></p>
       </div>
     </div>
@@ -191,12 +180,12 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
       <tr>
         <td class="schedule-time">14:30 – 14:55</td>
         <td class="schedule-event">Keynote Talk 2</td>
-        <td class="schedule-speaker">Prof. Yiyue Luo <span class="text-muted small">(University of Washington)</span></td>
+        <td class="schedule-speaker">Prof. Takao Someya <span class="text-muted small">(University of Tokyo)</span></td>
       </tr>
       <tr>
         <td class="schedule-time">14:55 – 15:20</td>
         <td class="schedule-event">Keynote Talk 3</td>
-        <td class="schedule-speaker">Prof. Takao Someya <span class="text-muted small">(University of Tokyo)</span></td>
+        <td class="schedule-speaker">Prof. Giorgio Cannata <span class="text-muted small">(University of Genova)</span></td>
       </tr>
       <tr>
         <td class="schedule-time">15:20 – 15:30</td>
@@ -204,14 +193,15 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
         <td class="schedule-speaker">Poster Authors</td>
       </tr>
       <tr class="schedule-break">
-        <td class="schedule-time">15:30 – 15:50</td>
-        <td class="schedule-event">☕ Coffee Break</td>
+        <td class="schedule-time">15:30 – 15:55</td>
+        <td class="schedule-event">☕ Coffee and Poster Session</td>
         <td class="schedule-speaker"></td>
       </tr>
       <tr>
-        <td class="schedule-time">15:50 – 16:00</td>
-        <td class="schedule-event">Industrial Talk</td>
-        <td class="schedule-speaker">Sponsors</td>
+        <td class="schedule-time">15:55 – 16:00</td>
+        <td class="schedule-event">Sponsor Presentation</td>
+        <td class="schedule-speaker">Dr. Sneha Rhode Gupta 
+        <span class="text-muted small">(WILEY)</span></td>
       </tr>
       <tr>
         <td class="schedule-time">16:00 – 16:25</td>
@@ -220,21 +210,21 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
       </tr>
             <tr>
         <td class="schedule-time">16:25 – 16:50</td>
-        <td class="schedule-event">Keynote Talk 6</td>
+        <td class="schedule-event">Keynote Talk 5</td>
         <td class="schedule-speaker">Prof. Kyungseo Park <span class="text-muted small">(DGIST)</span></td>
       </tr>
       <tr>
-        <td class="schedule-time">16:50 – 17:15</td>
-        <td class="schedule-event">Keynote Talk 5</td>
-        <td class="schedule-speaker">Prof. Giorgio Cannata <span class="text-muted small">(University of Genova)</span></td>
+        <td class="schedule-time">16:50 – 17:10</td>
+        <td class="schedule-event">Keynote Talk 6</td>
+        <td class="schedule-speaker">Prof. Yiyue Luo <span class="text-muted small">(University of Washington)</span></td>
       </tr>
       <tr>
-        <td class="schedule-time">17:15 – 17:40</td>
-        <td class="schedule-event">Keynote Talk 7</td>
-        <td class="schedule-speaker">Prof. Rebecca Kramer-Bottiglio <span class="text-muted small">(Yale University)</span></td>
+        <td class="schedule-time">17:10 – 17:30</td>
+        <td class="schedule-event">Panel Discussion</td>
+        <td class="schedule-speaker">All Speakers</td>
       </tr>
       <tr>
-        <td class="schedule-time">17:40 – 17:50</td>
+        <td class="schedule-time">17:30 – 17:35</td>
         <td class="schedule-event">Closing Remarks</td>
         <td class="schedule-speaker">Organizers</td>
       </tr>
