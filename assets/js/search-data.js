@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/call-for-contributions/";
           },
+        },{id: "nav-accepted-posters",
+          title: "Accepted Posters",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/accepted-posters/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
