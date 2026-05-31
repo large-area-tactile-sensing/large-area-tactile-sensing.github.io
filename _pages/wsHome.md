@@ -147,7 +147,7 @@ From robotic manipulation and safe human-robot interaction to wearable and assis
         <h5>Prof. Kyungseo Park</h5>
         </a>
         <p class="text-muted">Daegu Gyeongbuk Institute of Science and Technology</p>
-        <p class="speaker-topic"><em>Topic: xx</em></p>
+        <p class="speaker-topic"><em>Topic: Hardware-AI Co-Design of Whole-body Robotic Skin</em></p>
       </div>
     </div>
   </div>

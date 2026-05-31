@@ -30,7 +30,7 @@ Format:
 <br/>
 
 ### Beyond Human Touch: Large-Area Opto-Magnetic Electronic Skin for Multimodal Robotic Perception
-*Yingjie Zheng*
+*Yingjie Zheng, Thomas George Thuruthel, Xiangjiang Liu, Lijuan Xie*
 
 <br/>
 
